@@ -1,0 +1,41 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+body{
+    background-image: url("background.jpg");
+}
+.speed{
+    float:left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.img1{
+    width:200px;
+    height:200px;
+    border-radius: 20%;
+}
+.volume{
+    float:right;
+    margin-top:50px;
+    margin-right:50px;
+}
+.img2{
+    width:200px;
+    height:200px;
+    border-radius:20%;
+}
+.play{
+    margin-top:50px;
+    font-size: 30px;
+    width:150px;
+}
+canvas{
+    background-color: mediumseagreen;
+    border:2px solid mediumblue;
+}
